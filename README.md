@@ -17,7 +17,7 @@ A simple To-Do app built using Flutter that allows users to add and delete tasks
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/todo-app.git
+    git clone https://github.com/Shashvat2005/ToDo-App.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -36,4 +36,4 @@ A simple To-Do app built using Flutter that allows users to add and delete tasks
 
 1. Open the app on your device/emulator.
 2. Tap the **Add Task** button to add a new task.
-3. To delete a task, swipe left or click the **Delete** button next to the task.
+3. To delete a task, swipe left and click the **Delete** button next to the task.
