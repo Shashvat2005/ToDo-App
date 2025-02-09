@@ -8,8 +8,7 @@ ThemeData lightMode = ThemeData(
     onPrimary: Colors.black,
     secondary: Colors.white60,
     onSecondary: Colors.black,
-    onSurface: Colors.black, // Text color on surfaces
-    onBackground: Colors.black, // Text color on backgrounds
+    onSurface: Colors.black, // Text color on backgrounds
   ),
   appBarTheme: const AppBarTheme(
     backgroundColor: Colors.blueAccent,
@@ -24,8 +23,7 @@ ThemeData darkMode = ThemeData(
     onPrimary: Colors.black,
     secondary: Colors.white30,
     onSecondary: Colors.white,
-    onSurface: Colors.white, // Text color on surfaces
-    onBackground: Colors.white, // Text color on backgrounds
+    onSurface: Colors.white, // Text color on backgrounds
   ),
   appBarTheme: const AppBarTheme(
     backgroundColor: Colors.grey,

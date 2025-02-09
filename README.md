@@ -7,6 +7,10 @@ A simple To-Do app built using Flutter that allows users to add and delete tasks
 - **Add Task**: Add new tasks to your list.
 - **Delete Task**: Remove tasks once completed or no longer needed.
 - **Task List**: View all added tasks.
+- **Change Order**: Change the order of tasks
+- **Search Bar**: Search your task
+- **Edit**: Now you can edit tasks
+- **Filter**: Filter completed tasks
 
 ## Requirements
 

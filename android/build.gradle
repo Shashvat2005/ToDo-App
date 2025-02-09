@@ -4,6 +4,13 @@ allprojects {
         mavenCentral()
     }
 }
+gradle.projectsLoaded {
+    gradle.rootProject {
+        buildscript {
+            // Ensure the initialization script path is correct or remove it if not needed
+        }
+    }
+}
 
 rootProject.buildDir = "../build"
 subprojects {

@@ -20,7 +20,7 @@ class Button extends StatelessWidget {
         side: BorderSide(
           color: Theme.of(context).colorScheme.primary, // Border color
         ),
-        shape: RoundedRectangleBorder(
+        shape: const RoundedRectangleBorder(
           borderRadius: BorderRadius.all(Radius.circular(5)),
         )
       ),
